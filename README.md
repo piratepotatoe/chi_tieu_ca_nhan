@@ -1,0 +1,2 @@
+- chạy file get id khi add vào group
+- chạy file setwebhook mỗi khi có thay đổi về code
