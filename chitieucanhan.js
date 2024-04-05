@@ -1,6 +1,6 @@
 // Constants
 
-const TOKEN = `6776895322:AAG49MZk1HPhZg6rosv9_ZrjW-7VbuaiM58`;
+const TOKEN = `xxxx`;
 const BASE_URL = `https://api.telegram.org/bot${TOKEN}`;
 const CHAT_ID = 'xxxx';
 const DEPLOYED_URL = 'xxxx';
